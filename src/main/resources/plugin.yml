@@ -1,0 +1,7 @@
+main: me.liyua.bedwars.Main
+version: ${project.version}
+
+name: Bedwars
+api-version: 1.8
+website: https://github.com/Trqhxrd/Bedwars
+author: Liyua
